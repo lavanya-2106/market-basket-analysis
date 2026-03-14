@@ -11,26 +11,29 @@ This project performs Market Basket Analysis using the Apriori algorithm to iden
 
 ## Project Structure
 
+```
 market-basket-analysis
 │
 ├── backend
-│    ├── main.py
-│    ├── groceries.csv
-│    └── requirements.txt
+│   ├── main.py
+│   ├── groceries.csv
+│   └── requirements.txt
 │
 ├── frontend
-│    ├── package.json
-│    ├── public
-│    │     ├── index.html
-│    │     └── manifest.json
-│
-│    └── src
-│          ├── App.js
-│          ├── App.css
-│          ├── index.js
-│          └── components
+│   ├── package.json
+│   ├── public
+│   │   ├── index.html
+│   │   └── manifest.json
+│   │
+│   └── src
+│       ├── App.js
+│       ├── App.css
+│       ├── index.js
+│       └── components
 │
 └── README.md
+```
+
 
 ## Features
 - Product bundle recommendation
